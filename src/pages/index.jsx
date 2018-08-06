@@ -161,9 +161,9 @@ const Index = ({ data: { p1, p2, p3, p4 } }) => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hello, <br /> I'm Zack Franklin.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>People call me when they want their Amazon sales to go up.</Subtitle>
         </Hero>
       </Content>
       <Divider bg="#23262b" clipPath="polygon(0 16%, 100% 4%, 100% 82%, 0 94%)" speed={0.2} offset={1} factor={2} />
@@ -250,18 +250,13 @@ const Index = ({ data: { p1, p2, p3, p4 } }) => (
         <Inner>
           <Title>About</Title>
           <AboutHero>
-            <Avatar src={avatar} alt="John Doe" />
+            <Avatar src={avatar} alt="Zack Franklin" />
             <AboutSub>
-              The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-              Emoji into my speech to better express myself. Winky face.
+              Zack of all trades, master of some. I consult for top 50 Amazon sellers and manage AMZKungfu by day, learn programming at night. Shenzhen, China is home.
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-            every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-            make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The
-            kids want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that
-            all right?
+            
           </AboutDesc>
         </Inner>
       </Content>
@@ -285,14 +280,14 @@ const Index = ({ data: { p1, p2, p3, p4 } }) => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:zack@amzkungfu.com">Hi</a> or find me on other platforms:{' '}
+            <a href="https://www.linkedin.com/in/zackjf/">LinkedIn</a> &{' '}
+            <a href="https://www.amzkungfu.com">My Company Website</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2018 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LeKoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
+          &copy; 2018 Zack Franklin{' '}
+          <a href="https://amzkungfu.com">PPC Optimization software</a>.
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
